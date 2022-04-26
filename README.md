@@ -3,12 +3,13 @@ Extract, Transform, Load
 
 ## Overview
 * Create an ETL pipeline from raw data to a SQL database.
-* Extract data from multiple file sources using Python.
-* Clean and transform data using Pandas.
-* Use regular expressions (Regex) to parse data and to transform text into numbers.
-* Load data with PostgreSQL and verify in PgAdmin.
+*	Extract data from multiple file sources using Python.
+*	Clean and transform data using Pandas.
+*	Use regular expressions (Regex) to parse data and transform the text into numbers.
+*	Load data with PostgreSQL and verify in PgAdmin.
 
-The project included extracting a large data set from Kaggle, then transforming the data into a usable dataset.  Once the data was transformed and narrowed in scope the DataFrames were loaded into PostgresSQL.  
+The project included extracting a large data set from Kaggle, then transforming the data into a usable dataset. Once the data was transformed and narrowed in scope the Data Frames were loaded into PostgresSQL.
+
 
 ## Extracting
 Wikipedia Movies JSON file, starting with 193 Columns:
