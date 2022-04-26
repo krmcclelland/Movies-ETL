@@ -1,7 +1,7 @@
 # Movies ETL Challenge
 Extract, Transform, Load
 
-## Purpose
+## Overview
 * Create an ETL pipeline from raw data to a SQL database.
 * Extract data from multiple file sources using Python.
 * Clean and transform data using Pandas.
